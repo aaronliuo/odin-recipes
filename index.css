@@ -1,15 +1,15 @@
-* {
-    border: 2px solid red;
-    /* border-color: rgb(222, 175, 175); */
-}
+/* * {
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(222, 175, 175);
+} */
 
 .body {
-    border: 5px solid purple;
+    /* border: 5px solid purple; */
     background-color: hsl(120, 35%, 56%);
 }
 
 .title {
-    text-align: center;
     font-size: 90px;
-
+    text-align: center;
 }
